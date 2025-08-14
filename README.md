@@ -3,7 +3,7 @@
  <img width="250" height="3661" alt="image" ALIGN="left" src="https://github.com/user-attachments/assets/05a01071-ce3f-4157-8fc0-f795ecefc35f" /> Hello! I'm Jillian- aspiring TPM, developing for fun. I believe in using and developing skills to help and connect people. 
 
  
-NVOT Esports President 2022-2024 (managed a club with 80+ weekly attendees!) CEAS Mentor 2025 (guide 3 mentees through their first year of college) small writing program organizer (10+ writers and 
+NVOT Esports President 2022-2024 (managed a club with 80+ weekly attendees!) CEAS Mentor 2025 (guide 3 mentees through their first year of college) writing program organizer (10+ writers and dozens of requests) 
 
 Information Systems Major at Stony Brook University, Class of 2028 
 
