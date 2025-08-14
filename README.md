@@ -11,7 +11,9 @@ Languages: Java, HTML, CSS, JS, C
 
 Upcoming projects: personal website, discord bots (stay tuned!)
 
-Connect with me on: [linkedin](www.linkedin.com/in/jillianatan) email: jillian.tan@stonybrook.edu | fun fact: will finish minors in business/communications and creative writing! Hire me for your visual novels (I'm only half-kidding)
+Connect with me on: [linkedin](www.linkedin.com/in/jillianatan) email: jillian.tan@stonybrook.edu 
+
+fun fact: will finish minors in business/communications and creative writing! Hire me for your visual novels (I'm only half-kidding)
 
 art credits: [kinlidraws](https://vgen.co/Kinlidraws) on [vgen](https://vgen.co/)
 
