@@ -7,7 +7,7 @@ NVOT Esports President 2022-2024 (managed a club with 80+ weekly attendees!) CEA
 
 Information Systems Major at Stony Brook University, Class of 2028 
 
-Languages: Java, HTML, CSS, JS, C
+Languages: Java, HTML, CSS, JS, C, R, SQL
 
 Upcoming projects: personal website, discord bots (stay tuned!)
 
