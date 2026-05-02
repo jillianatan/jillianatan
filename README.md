@@ -1,6 +1,6 @@
  <!--<img width="250" height="250" alt="image" ALIGN="left" src="https://github.com/user-attachments/assets/66fff6e0-a6d7-4af8-96dd-1c184697047b" /> -->
  
- <img width="250" height="3661" alt="image" ALIGN="left" src="https://github.com/user-attachments/assets/05a01071-ce3f-4157-8fc0-f795ecefc35f" /> Hello! I'm Jillian- aspiring TPM, developing for fun. I believe in using and developing skills to help and connect people. 
+ <img width="250px" height="3661ox" alt="image" ALIGN="left" src="https://github.com/user-attachments/assets/05a01071-ce3f-4157-8fc0-f795ecefc35f" /> Hello! I'm Jillian- aspiring TPM, developing for fun. I believe in using and developing skills to help and connect people. 
 
  
 NVOT Esports President 2022-2024 (managed a club with 80+ weekly attendees!) CEAS Mentor 2025 (guide 3 mentees through their first year of college) writing program organizer 2 years in a row (10+ writers and dozens of requests) 5 years various online community events manager (10-100 participants) 
