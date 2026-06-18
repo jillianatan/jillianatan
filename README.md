@@ -2,10 +2,10 @@
  
  <img width="250px" height="3661ox" alt="image" ALIGN="left" src="https://github.com/user-attachments/assets/05a01071-ce3f-4157-8fc0-f795ecefc35f" />   Hello everyone! I'm Jillian, an aspiring PM. I like making tasks easier for people. 
 
- Information Systems Major 
- Communication and Innovation (BUS/COM) minor
- Stony Brook University
- Class of 2028 
+ Information Systems Major <br>
+ Communication and Innovation (BUS/COM) minor <br>
+ Stony Brook University <br>
+ Class of 2028  
 
 On campus: art vendor, ceas dean's student advisory board, founder interdisciplinary creative network club 
 
