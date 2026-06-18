@@ -1,19 +1,21 @@
  <!--<img width="250" height="250" alt="image" ALIGN="left" src="https://github.com/user-attachments/assets/66fff6e0-a6d7-4af8-96dd-1c184697047b" /> -->
  
- <img width="250px" height="3661ox" alt="image" ALIGN="left" src="https://github.com/user-attachments/assets/05a01071-ce3f-4157-8fc0-f795ecefc35f" /> Hello! I'm Jillian- aspiring TPM, developing for fun. I believe in using and developing skills to help and connect people. 
+ <img width="250px" height="3661ox" alt="image" ALIGN="left" src="https://github.com/user-attachments/assets/05a01071-ce3f-4157-8fc0-f795ecefc35f" />   Hello everyone! I'm Jillian, an aspiring PM. I like making tasks easier for people. 
 
- 
-NVOT Esports President 2022-2024 (managed a club with 80+ weekly attendees!) CEAS Mentor 2025 (guide 3 mentees through their first year of college) writing program organizer 2 years in a row (10+ writers and dozens of requests) 5 years various online community events manager (10-100 participants) 
+ Information Systems Major 
+ Communication and Innovation (BUS/COM) minor
+ Stony Brook University
+ Class of 2028 
 
-Information Systems Major at Stony Brook University, Class of 2028 
+On campus: art vendor, ceas dean's student advisory board, founder interdisciplinary creative network club 
+
+I run a business selling handmade items. 
 
 Languages: Java, HTML, CSS, JS, C, R, SQL, Python
 
-Upcoming projects: personal website, discord bots (stay tuned!)
+Projects: Inventory + Sales Tracker for my biz!! intro bot for discord, sql checker 
 
 Connect with me on: [linkedin](https://www.linkedin.com/in/jillianatan) email: jillian.tan@stonybrook.edu 
-
-fun fact: will finish minors in business/communications and creative writing! Hire me for your visual novels (I'm only half-kidding)
 
 art credits: [kinlidraws](https://vgen.co/Kinlidraws) on [vgen](https://vgen.co/)
 
