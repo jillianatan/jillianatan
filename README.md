@@ -15,6 +15,8 @@ Languages: Java, HTML, CSS, JS, C, R, SQL, Python
 
 Projects: Inventory + Sales Tracker for my biz!! intro bot for discord, sql checker 
 
+Portfolio site: [https://jillianatan.carrd.co/#](https://jillianatan.carrd.co/#)
+
 Connect with me on: [linkedin](https://www.linkedin.com/in/jillianatan) email: jillian.tan@stonybrook.edu 
 
 art credits: [kinlidraws](https://vgen.co/Kinlidraws) on [vgen](https://vgen.co/)
